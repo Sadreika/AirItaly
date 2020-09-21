@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\bin\Debug\AirItaly.exe.config
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\bin\Debug\AirItaly.exe
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\bin\Debug\AirItaly.pdb
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\obj\Debug\AirItaly.csprojAssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\obj\Debug\AirItaly.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\obj\Debug\AirItaly.csproj.CopyComplete
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\obj\Debug\AirItaly.exe
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\obj\Debug\AirItaly.pdb
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\bin\Debug\RestSharp.dll
+C:\Users\mariu\Documents\GitHub\AirItaly\AirItaly\AirItaly\bin\Debug\RestSharp.xml
